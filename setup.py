@@ -9,7 +9,7 @@ import glob
 import urllib.request
 import zipfile
 import tarfile
-import platform
+import platform 
 import shutil
 
 from setuptools.command.build_ext import build_ext
